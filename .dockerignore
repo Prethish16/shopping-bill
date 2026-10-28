@@ -1,0 +1,6 @@
+.git
+__pycache__
+.pytest_cache
+test_app.py
+deployment.yaml
+service.yaml
